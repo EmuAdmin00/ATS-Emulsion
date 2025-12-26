@@ -1,0 +1,14 @@
+{
+  "applets": [{
+    "lastAccessTime": "2025-12-26T08:31:41.665105Z",
+    "firstAccessTime": "2025-12-26T08:31:41.665105Z",
+    "source": {
+      "drive": {
+        "resourceId": "1Z1o6gq-LjXY1JTOlMNmnQx4IVX43oYmv",
+        "revisionId": "0B2tnITHulj73b3JuS2gzVTVIdTlzdmpOaE9mTERCN2VlUVJrPQ"
+      }
+    },
+    "name": "Asphalt Emulsion Management System",
+    "description": "A comprehensive ERP-style dashboard for monitoring raw materials, production batches, sales orders, and AI-powered demand forecasting for asphalt emulsion manufacturing."
+  }]
+}
